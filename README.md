@@ -5,3 +5,4 @@ ProverX is a logic prover, which explores all possible machine-learning algorith
 - Generate data
 - Prove
 - Classify
+  - Gaussian (which has no hypterparamters to setup)
